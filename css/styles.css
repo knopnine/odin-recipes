@@ -1,0 +1,18 @@
+*{
+  background-color: rgb(194, 255, 248);
+}
+
+.title{
+  font-size: 40px;
+  font-style: bold;
+  text-align: center;
+  color: #141b38
+}
+
+.recipe {
+  font-size: 32px;
+  font-style: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
